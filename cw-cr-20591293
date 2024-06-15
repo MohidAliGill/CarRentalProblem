@@ -1,0 +1,272 @@
+// Objective function
+max: 13.20000tr_g_mo+13.20000tr_g_te+13.20000tr_g_wd+13.20000tr_g_tu+
+13.20000tr_g_fr+6.60000tr_g_mo+6.60000tr_g_te+6.60000tr_g_wd+6.60000tr_g_tu+
+6.60000tr_g_fr+15.00000tr_g_mo+15.00000tr_g_te+15.00000tr_g_wd+15.00000tr_g_tu+
+15.00000tr_g_fr+12.10000tr_m_mo+12.10000tr_m_te+12.10000tr_m_wd+12.10000tr_m_tu+
+12.10000tr_m_fr+6.05000tr_m_mo+6.05000tr_m_te+6.05000tr_m_wd+6.05000tr_m_tu+
+6.05000tr_m_fr+13.75000tr_m_mo+13.75000tr_m_te+13.75000tr_m_wd+13.75000tr_m_tu+
+13.75000tr_m_fr+11.88000tr_b_mo+11.88000tr_b_te+11.88000tr_b_wd+11.88000tr_b_tu+
+11.88000tr_b_fr+5.94000tr_b_mo+5.94000tr_b_te+5.94000tr_b_wd+5.94000tr_b_tu+
+5.94000tr_b_fr+13.50000tr_b_mo+13.50000tr_b_te+13.50000tr_b_wd+13.50000tr_b_tu+
+13.50000tr_b_fr+11.66000tr_p_mo+11.66000tr_p_te+11.66000tr_p_wd+11.66000tr_p_tu+
+11.66000tr_p_fr+5.83000tr_p_mo+5.83000tr_p_te+5.83000tr_p_wd+5.83000tr_p_tu+
+5.83000tr_p_fr+13.25000tr_p_mo+13.25000tr_p_te+13.25000tr_p_wd+13.25000tr_p_tu+
+13.25000tr_p_fr+6.60000tr_g_mo+6.60000tr_g_te+6.60000tr_g_wd+6.60000tr_g_tu+
+6.60000tr_g_fr+3.40000tr_g_mo+3.40000tr_g_te+3.40000tr_g_wd+3.40000tr_g_tu+
+3.40000tr_g_fr+6.50000tr_g_mo+6.50000tr_g_te+6.50000tr_g_wd+6.50000tr_g_tu+
+6.50000tr_g_fr+3.30000tr_g_mo+3.30000tr_g_te+3.30000tr_g_wd+3.30000tr_g_tu+
+3.30000tr_g_fr+1.70000tr_g_mo+1.70000tr_g_te+1.70000tr_g_wd+1.70000tr_g_tu+
+1.70000tr_g_fr+3.25000tr_g_mo+3.25000tr_g_te+3.25000tr_g_wd+3.25000tr_g_tu+
+3.25000tr_g_fr+3.30000tr_g_mo+3.30000tr_g_te+3.30000tr_g_wd+3.30000tr_g_tu+
+3.30000tr_g_fr+1.70000tr_g_mo+1.70000tr_g_te+1.70000tr_g_wd+1.70000tr_g_tu+
+1.70000tr_g_fr+3.25000tr_g_mo+3.25000tr_g_te+3.25000tr_g_wd+3.25000tr_g_tu+
+3.25000tr_g_fr+4.95000tr_m_mo+4.95000tr_m_te+4.95000tr_m_wd+4.95000tr_m_tu+
+4.95000tr_m_fr+2.55000tr_m_mo+2.55000tr_m_te+2.55000tr_m_wd+2.55000tr_m_tu+
+2.55000tr_m_fr+4.87500tr_m_mo+4.87500tr_m_te+4.87500tr_m_wd+4.87500tr_m_tu+
+4.87500tr_m_fr+8.25000tr_m_mo+8.25000tr_m_te+8.25000tr_m_wd+8.25000tr_m_tu+
+8.25000tr_m_fr+4.25000tr_m_mo+4.25000tr_m_te+4.25000tr_m_wd+4.25000tr_m_tu+
+4.25000tr_m_fr+8.12500tr_m_mo+8.12500tr_m_te+8.12500tr_m_wd+8.12500tr_m_tu+
+8.12500tr_m_fr+1.65000tr_m_mo+1.65000tr_m_te+1.65000tr_m_wd+1.65000tr_m_tu+
+1.65000tr_m_fr+0.85000tr_m_mo+0.85000tr_m_te+0.85000tr_m_wd+0.85000tr_m_tu+
+0.85000tr_m_fr+1.62500tr_m_mo+1.62500tr_m_te+1.62500tr_m_wd+1.62500tr_m_tu+
+1.62500tr_m_fr+4.95000tr_b_mo+4.95000tr_b_te+4.95000tr_b_wd+4.95000tr_b_tu+
+4.95000tr_b_fr+2.55000tr_b_mo+2.55000tr_b_te+2.55000tr_b_wd+2.55000tr_b_tu+
+2.55000tr_b_fr+4.87500tr_b_mo+4.87500tr_b_te+4.87500tr_b_wd+4.87500tr_b_tu+
+4.87500tr_b_fr+6.60000tr_b_mo+6.60000tr_b_te+6.60000tr_b_wd+6.60000tr_b_tu+
+6.60000tr_b_fr+3.40000tr_b_mo+3.40000tr_b_te+3.40000tr_b_wd+3.40000tr_b_tu+
+3.40000tr_b_fr+6.50000tr_b_mo+6.50000tr_b_te+6.50000tr_b_wd+6.50000tr_b_tu+
+6.50000tr_b_fr+3.63000tr_b_mo+3.63000tr_b_te+3.63000tr_b_wd+3.63000tr_b_tu+
+3.63000tr_b_fr+1.87000tr_b_mo+1.87000tr_b_te+1.87000tr_b_wd+1.87000tr_b_tu+
+1.87000tr_b_fr+3.57500tr_b_mo+3.57500tr_b_te+3.57500tr_b_wd+3.57500tr_b_tu+
+3.57500tr_b_fr+2.64000tr_p_mo+2.64000tr_p_te+2.64000tr_p_wd+2.64000tr_p_tu+
+2.64000tr_p_fr+1.36000tr_p_mo+1.36000tr_p_te+1.36000tr_p_wd+1.36000tr_p_tu+
+1.36000tr_p_fr+2.60000tr_p_mo+2.60000tr_p_te+2.60000tr_p_wd+2.60000tr_p_tu+
+2.60000tr_p_fr+3.96000tr_p_mo+3.96000tr_p_te+3.96000tr_p_wd+3.96000tr_p_tu+
+3.96000tr_p_fr+2.04000tr_p_mo+2.04000tr_p_te+2.04000tr_p_wd+2.04000tr_p_tu+
+2.04000tr_p_fr+3.90000tr_p_mo+3.90000tr_p_te+3.90000tr_p_wd+3.90000tr_p_tu+
+3.90000tr_p_fr+8.91000tr_p_mo+8.91000tr_p_te+8.91000tr_p_wd+8.91000tr_p_tu+
+8.91000tr_p_fr+4.59000tr_p_mo+4.59000tr_p_te+4.59000tr_p_wd+4.59000tr_p_tu+
+4.59000tr_p_fr+8.77500tr_p_mo+8.77500tr_p_te+8.77500tr_p_wd+8.77500tr_p_tu+
+8.77500tr_p_fr+6.60000tr_g_sa+6.05000tr_m_sa+5.94000tr_b_sa+5.83000tr_p_sa+
+4.40000tr_g_sa+2.20000tr_g_sa+2.20000tr_g_sa+3.30000tr_m_sa+5.50000tr_m_sa+
+1.10000tr_m_sa+3.30000tr_b_sa+4.40000tr_b_sa+2.42000tr_b_sa+1.76000tr_p_sa+
+2.64000tr_p_sa+5.94000tr_p_sa+6.60000tr_g_sa+15.00000tr_g_sa+6.05000tr_m_sa+
+13.75000tr_m_sa+5.94000tr_b_sa+13.50000tr_b_sa+5.83000tr_p_sa+13.25000tr_p_sa+
+3.40000tr_g_sa+6.50000tr_g_sa+1.70000tr_g_sa+3.25000tr_g_sa+1.70000tr_g_sa+
+3.25000tr_g_sa+2.55000tr_m_sa+4.87500tr_m_sa+4.25000tr_m_sa+8.12500tr_m_sa+
+0.85000tr_m_sa+1.62500tr_m_sa+2.55000tr_b_sa+4.87500tr_b_sa+3.40000tr_b_sa+
+6.50000tr_b_sa+1.87000tr_b_sa+3.57500tr_b_sa+1.36000tr_p_sa+2.60000tr_p_sa+
+2.04000tr_p_sa+3.90000tr_p_sa+4.59000tr_p_sa+8.77500tr_p_sa-9999tu_g_g_mo-
+9999tu_g_g_te-9999tu_g_g_wd-9999tu_g_g_tu-9999tu_g_g_fr-9999tu_g_g_sa-
+20tu_g_m_mo-20tu_g_m_te-20tu_g_m_wd-20tu_g_m_tu-20tu_g_m_fr-20tu_g_m_sa-
+30tu_g_b_mo-30tu_g_b_te-30tu_g_b_wd-30tu_g_b_tu-30tu_g_b_fr-30tu_g_b_sa-
+50tu_g_p_mo-50tu_g_p_te-50tu_g_p_wd-50tu_g_p_tu-50tu_g_p_fr-50tu_g_p_sa-
+20tu_m_g_mo-20tu_m_g_te-20tu_m_g_wd-20tu_m_g_tu-20tu_m_g_fr-20tu_m_g_sa-
+9999tu_m_m_mo-9999tu_m_m_te-9999tu_m_m_wd-9999tu_m_m_tu-9999tu_m_m_fr-
+9999tu_m_m_sa-15tu_m_b_mo-15tu_m_b_te-15tu_m_b_wd-15tu_m_b_tu-15tu_m_b_fr-
+15tu_m_b_sa-35tu_m_p_mo-35tu_m_p_te-35tu_m_p_wd-35tu_m_p_tu-35tu_m_p_fr-
+35tu_m_p_sa-30tu_b_g_mo-30tu_b_g_te-30tu_b_g_wd-30tu_b_g_tu-30tu_b_g_fr-
+30tu_b_g_sa-15tu_b_m_mo-15tu_b_m_te-15tu_b_m_wd-15tu_b_m_tu-15tu_b_m_fr-
+15tu_b_m_sa-9999tu_b_b_mo-9999tu_b_b_te-9999tu_b_b_wd-9999tu_b_b_tu-
+9999tu_b_b_fr-9999tu_b_b_sa-25tu_b_p_mo-25tu_b_p_te-25tu_b_p_wd-25tu_b_p_tu-
+25tu_b_p_fr-25tu_b_p_sa-50tu_p_g_mo-50tu_p_g_te-50tu_p_g_wd-50tu_p_g_tu-
+50tu_p_g_fr-50tu_p_g_sa-35tu_p_m_mo-35tu_p_m_te-35tu_p_m_wd-35tu_p_m_tu-
+35tu_p_m_fr-35tu_p_m_sa-25tu_p_b_mo-25tu_p_b_te-25tu_p_b_wd-25tu_p_b_tu-
+25tu_p_b_fr-25tu_p_b_sa-9999tu_p_p_mo-9999tu_p_p_te-9999tu_p_p_wd-
+9999tu_p_p_tu-9999tu_p_p_fr-9999tu_p_p_sa-9999td_g_g_mo-9999td_g_g_te-
+9999td_g_g_wd-9999td_g_g_tu-9999td_g_g_fr-9999td_g_g_sa-20td_g_m_mo-20td_g_m_te-
+20td_g_m_wd-20td_g_m_tu-20td_g_m_fr-20td_g_m_sa-30td_g_b_mo-30td_g_b_te-
+30td_g_b_wd-30td_g_b_tu-30td_g_b_fr-30td_g_b_sa-50td_g_p_mo-50td_g_p_te-
+50td_g_p_wd-50td_g_p_tu-50td_g_p_fr-50td_g_p_sa-20td_m_g_mo-20td_m_g_te-
+20td_m_g_wd-20td_m_g_tu-20td_m_g_fr-20td_m_g_sa-9999td_m_m_mo-9999td_m_m_te-
+9999td_m_m_wd-9999td_m_m_tu-9999td_m_m_fr-9999td_m_m_sa-15td_m_b_mo-15td_m_b_te-
+15td_m_b_wd-15td_m_b_tu-15td_m_b_fr-15td_m_b_sa-35td_m_p_mo-35td_m_p_te-
+35td_m_p_wd-35td_m_p_tu-35td_m_p_fr-35td_m_p_sa-30td_b_g_mo-30td_b_g_te-
+30td_b_g_wd-30td_b_g_tu-30td_b_g_fr-30td_b_g_sa-15td_b_m_mo-15td_b_m_te-
+15td_b_m_wd-15td_b_m_tu-15td_b_m_fr-15td_b_m_sa-9999td_b_b_mo-9999td_b_b_te-
+9999td_b_b_wd-9999td_b_b_tu-9999td_b_b_fr-9999td_b_b_sa-25td_b_p_mo-25td_b_p_te-
+25td_b_p_wd-25td_b_p_tu-25td_b_p_fr-25td_b_p_sa-50td_p_g_mo-50td_p_g_te-
+50td_p_g_wd-50td_p_g_tu-50td_p_g_fr-50td_p_g_sa-35td_p_m_mo-35td_p_m_te-
+35td_p_m_wd-35td_p_m_tu-35td_p_m_fr-35td_p_m_sa-25td_p_b_mo-25td_p_b_te-
+25td_p_b_wd-25td_p_b_tu-25td_p_b_fr-25td_p_b_sa-9999td_p_p_mo-9999td_p_p_te-
+9999td_p_p_wd-9999td_p_p_tu-9999td_p_p_fr-9999td_p_p_sa-18000a_1-8000a_2-
+20000a_3-5000a_4-19000a_5-15n ;
+
+// ############### CONSTRAINTS ######################
+
+// Constraint 1
+// Total number of undamaged cars into depot i on day t
+0.29700tr_g_sa+0.10800tr_g_fr+0.13500tr_g_tu+0.07425tr_m_sa+0.02700tr_m_fr+0.03375tr_m_tu+0.07425tr_b_sa+0.02700tr_b_fr+0.03375tr_b_tu+0.03960tr_p_sa+0.01440tr_p_fr+0.01800tr_p_tu+tu_g_g_sa+tu_m_g_sa+tu_b_g_sa+tu_p_g_sa+rp_g_sa+eu_g_sa = nu_g_mo ;
+0.29700tr_g_mo+0.10800tr_g_sa+0.13500tr_g_fr+0.07425tr_m_mo+0.02700tr_m_sa+0.03375tr_m_fr+0.07425tr_b_mo+0.02700tr_b_sa+0.03375tr_b_fr+0.03960tr_p_mo+0.01440tr_p_sa+0.01800tr_p_fr+tu_g_g_mo+tu_m_g_mo+tu_b_g_mo+tu_p_g_mo+rp_g_mo+eu_g_mo = nu_g_te ;
+0.29700tr_g_te+0.10800tr_g_mo+0.13500tr_g_sa+0.07425tr_m_te+0.02700tr_m_mo+0.03375tr_m_sa+0.07425tr_b_te+0.02700tr_b_mo+0.03375tr_b_sa+0.03960tr_p_te+0.01440tr_p_mo+0.01800tr_p_sa+tu_g_g_te+tu_m_g_te+tu_b_g_te+tu_p_g_te+rp_g_te+eu_g_te = nu_g_wd ;
+0.29700tr_g_wd+0.10800tr_g_te+0.13500tr_g_mo+0.07425tr_m_wd+0.02700tr_m_te+0.03375tr_m_mo+0.07425tr_b_wd+0.02700tr_b_te+0.03375tr_b_mo+0.03960tr_p_wd+0.01440tr_p_te+0.01800tr_p_mo+tu_g_g_wd+tu_m_g_wd+tu_b_g_wd+tu_p_g_wd+rp_g_wd+eu_g_wd = nu_g_tu ;
+0.29700tr_g_tu+0.10800tr_g_wd+0.13500tr_g_te+0.07425tr_m_tu+0.02700tr_m_wd+0.03375tr_m_te+0.07425tr_b_tu+0.02700tr_b_wd+0.03375tr_b_te+0.03960tr_p_tu+0.01440tr_p_wd+0.01800tr_p_te+tu_g_g_tu+tu_m_g_tu+tu_b_g_tu+tu_p_g_tu+rp_g_tu+eu_g_tu = nu_g_fr ;
+0.29700tr_g_fr+0.10800tr_g_tu+0.13500tr_g_wd+0.07425tr_m_fr+0.02700tr_m_tu+0.03375tr_m_wd+0.07425tr_b_fr+0.02700tr_b_tu+0.03375tr_b_wd+0.03960tr_p_fr+0.01440tr_p_tu+0.01800tr_p_wd+tu_g_g_fr+tu_m_g_fr+tu_b_g_fr+tu_p_g_fr+rp_g_fr+eu_g_fr = nu_g_sa ;
+0.09900tr_g_sa+0.03600tr_g_fr+0.04500tr_g_tu+0.27225tr_m_sa+0.09900tr_m_fr+0.12375tr_m_tu+0.09900tr_b_sa+0.03600tr_b_fr+0.04500tr_b_tu+0.05940tr_p_sa+0.02160tr_p_fr+0.02700tr_p_tu+tu_g_m_sa+tu_m_m_sa+tu_b_m_sa+tu_p_m_sa+rp_m_sa+eu_m_sa = nu_m_mo ;
+0.09900tr_g_mo+0.03600tr_g_sa+0.04500tr_g_fr+0.27225tr_m_mo+0.09900tr_m_sa+0.12375tr_m_fr+0.09900tr_b_mo+0.03600tr_b_sa+0.04500tr_b_fr+0.05940tr_p_mo+0.02160tr_p_sa+0.02700tr_p_fr+tu_g_m_mo+tu_m_m_mo+tu_b_m_mo+tu_p_m_mo+rp_m_mo+eu_m_mo = nu_m_te ;
+0.09900tr_g_te+0.03600tr_g_mo+0.04500tr_g_sa+0.27225tr_m_te+0.09900tr_m_mo+0.12375tr_m_sa+0.09900tr_b_te+0.03600tr_b_mo+0.04500tr_b_sa+0.05940tr_p_te+0.02160tr_p_mo+0.02700tr_p_sa+tu_g_m_te+tu_m_m_te+tu_b_m_te+tu_p_m_te+rp_m_te+eu_m_te = nu_m_wd ;
+0.09900tr_g_wd+0.03600tr_g_te+0.04500tr_g_mo+0.27225tr_m_wd+0.09900tr_m_te+0.12375tr_m_mo+0.09900tr_b_wd+0.03600tr_b_te+0.04500tr_b_mo+0.05940tr_p_wd+0.02160tr_p_te+0.02700tr_p_mo+tu_g_m_wd+tu_m_m_wd+tu_b_m_wd+tu_p_m_wd+rp_m_wd+eu_m_wd = nu_m_tu ;
+0.09900tr_g_tu+0.03600tr_g_wd+0.04500tr_g_te+0.27225tr_m_tu+0.09900tr_m_wd+0.12375tr_m_te+0.09900tr_b_tu+0.03600tr_b_wd+0.04500tr_b_te+0.05940tr_p_tu+0.02160tr_p_wd+0.02700tr_p_te+tu_g_m_tu+tu_m_m_tu+tu_b_m_tu+tu_p_m_tu+rp_m_tu+eu_m_tu = nu_m_fr ;
+0.09900tr_g_fr+0.03600tr_g_tu+0.04500tr_g_wd+0.27225tr_m_fr+0.09900tr_m_tu+0.12375tr_m_wd+0.09900tr_b_fr+0.03600tr_b_tu+0.04500tr_b_wd+0.05940tr_p_fr+0.02160tr_p_tu+0.02700tr_p_wd+tu_g_m_fr+tu_m_m_fr+tu_b_m_fr+tu_p_m_fr+rp_m_fr+eu_m_fr = nu_m_sa ;
+0.04950tr_g_sa+0.01800tr_g_fr+0.02250tr_g_tu+0.12375tr_m_sa+0.04500tr_m_fr+0.05625tr_m_tu+0.26730tr_b_sa+0.09720tr_b_fr+0.12150tr_b_tu+0.13365tr_p_sa+0.04860tr_p_fr+0.06075tr_p_tu+tu_g_b_sa+tu_m_b_sa+tu_b_b_sa+tu_p_b_sa+rp_b_sa+eu_b_sa = nu_b_mo ;
+0.04950tr_g_mo+0.01800tr_g_sa+0.02250tr_g_fr+0.12375tr_m_mo+0.04500tr_m_sa+0.05625tr_m_fr+0.26730tr_b_mo+0.09720tr_b_sa+0.12150tr_b_fr+0.13365tr_p_mo+0.04860tr_p_sa+0.06075tr_p_fr+tu_g_b_mo+tu_m_b_mo+tu_b_b_mo+tu_p_b_mo+rp_b_mo+eu_b_mo = nu_b_te ;
+0.04950tr_g_te+0.01800tr_g_mo+0.02250tr_g_sa+0.12375tr_m_te+0.04500tr_m_mo+0.05625tr_m_sa+0.26730tr_b_te+0.09720tr_b_mo+0.12150tr_b_sa+0.13365tr_p_te+0.04860tr_p_mo+0.06075tr_p_sa+tu_g_b_te+tu_m_b_te+tu_b_b_te+tu_p_b_te+rp_b_te+eu_b_te = nu_b_wd ;
+0.04950tr_g_wd+0.01800tr_g_te+0.02250tr_g_mo+0.12375tr_m_wd+0.04500tr_m_te+0.05625tr_m_mo+0.26730tr_b_wd+0.09720tr_b_te+0.12150tr_b_mo+0.13365tr_p_wd+0.04860tr_p_te+0.06075tr_p_mo+tu_g_b_wd+tu_m_b_wd+tu_b_b_wd+tu_p_b_wd+rp_b_wd+eu_b_wd = nu_b_tu ;
+0.04950tr_g_tu+0.01800tr_g_wd+0.02250tr_g_te+0.12375tr_m_tu+0.04500tr_m_wd+0.05625tr_m_te+0.26730tr_b_tu+0.09720tr_b_wd+0.12150tr_b_te+0.13365tr_p_tu+0.04860tr_p_wd+0.06075tr_p_te+tu_g_b_tu+tu_m_b_tu+tu_b_b_tu+tu_p_b_tu+rp_b_tu+eu_b_tu = nu_b_fr ;
+0.04950tr_g_fr+0.01800tr_g_tu+0.02250tr_g_wd+0.12375tr_m_fr+0.04500tr_m_tu+0.05625tr_m_wd+0.26730tr_b_fr+0.09720tr_b_tu+0.12150tr_b_wd+0.13365tr_p_fr+0.04860tr_p_tu+0.06075tr_p_wd+tu_g_b_fr+tu_m_b_fr+tu_b_b_fr+tu_p_b_fr+rp_b_fr+eu_b_fr = nu_b_sa ;
+0.04950tr_g_sa+0.01800tr_g_fr+0.02250tr_g_tu+0.02475tr_m_sa+0.00900tr_m_fr+0.01125tr_m_tu+0.05445tr_b_sa+0.01980tr_b_fr+0.02475tr_b_tu+0.26235tr_p_sa+0.09540tr_p_fr+0.11925tr_p_tu+tu_g_p_sa+tu_m_p_sa+tu_b_p_sa+tu_p_p_sa+rp_p_sa+eu_p_sa = nu_p_mo ;
+0.04950tr_g_mo+0.01800tr_g_sa+0.02250tr_g_fr+0.02475tr_m_mo+0.00900tr_m_sa+0.01125tr_m_fr+0.05445tr_b_mo+0.01980tr_b_sa+0.02475tr_b_fr+0.26235tr_p_mo+0.09540tr_p_sa+0.11925tr_p_fr+tu_g_p_mo+tu_m_p_mo+tu_b_p_mo+tu_p_p_mo+rp_p_mo+eu_p_mo = nu_p_te ;
+0.04950tr_g_te+0.01800tr_g_mo+0.02250tr_g_sa+0.02475tr_m_te+0.00900tr_m_mo+0.01125tr_m_sa+0.05445tr_b_te+0.01980tr_b_mo+0.02475tr_b_sa+0.26235tr_p_te+0.09540tr_p_mo+0.11925tr_p_sa+tu_g_p_te+tu_m_p_te+tu_b_p_te+tu_p_p_te+rp_p_te+eu_p_te = nu_p_wd ;
+0.04950tr_g_wd+0.01800tr_g_te+0.02250tr_g_mo+0.02475tr_m_wd+0.00900tr_m_te+0.01125tr_m_mo+0.05445tr_b_wd+0.01980tr_b_te+0.02475tr_b_mo+0.26235tr_p_wd+0.09540tr_p_te+0.11925tr_p_mo+tu_g_p_wd+tu_m_p_wd+tu_b_p_wd+tu_p_p_wd+rp_p_wd+eu_p_wd = nu_p_tu ;
+0.04950tr_g_tu+0.01800tr_g_wd+0.02250tr_g_te+0.02475tr_m_tu+0.00900tr_m_wd+0.01125tr_m_te+0.05445tr_b_tu+0.01980tr_b_wd+0.02475tr_b_te+0.26235tr_p_tu+0.09540tr_p_wd+0.11925tr_p_te+tu_g_p_tu+tu_m_p_tu+tu_b_p_tu+tu_p_p_tu+rp_p_tu+eu_p_tu = nu_p_fr ;
+0.04950tr_g_fr+0.01800tr_g_tu+0.02250tr_g_wd+0.02475tr_m_fr+0.00900tr_m_tu+0.01125tr_m_wd+0.05445tr_b_fr+0.01980tr_b_tu+0.02475tr_b_wd+0.26235tr_p_fr+0.09540tr_p_tu+0.11925tr_p_wd+tu_g_p_fr+tu_m_p_fr+tu_b_p_fr+tu_p_p_fr+rp_p_fr+eu_p_fr = nu_p_sa ;
+
+// Constraint 2
+// Total number of damaged cars into depot i on day t
+0.03300tr_g_sa+0.01200tr_g_fr+0.01500tr_g_tu+0.00825tr_m_sa+0.00300tr_m_fr+0.00375tr_m_tu+0.00825tr_b_sa+0.00300tr_b_fr+0.00375tr_b_tu+0.00440tr_p_sa+0.00160tr_p_fr+0.00200tr_p_tu+td_g_g_sa+td_m_g_sa+td_b_g_sa+td_p_g_sa+ed_g_sa = nd_g_mo ;
+0.03300tr_g_mo+0.01200tr_g_sa+0.01500tr_g_fr+0.00825tr_m_mo+0.00300tr_m_sa+0.00375tr_m_fr+0.00825tr_b_mo+0.00300tr_b_sa+0.00375tr_b_fr+0.00440tr_p_mo+0.00160tr_p_sa+0.00200tr_p_fr+td_g_g_mo+td_m_g_mo+td_b_g_mo+td_p_g_mo+ed_g_mo = nd_g_te ;
+0.03300tr_g_te+0.01200tr_g_mo+0.01500tr_g_sa+0.00825tr_m_te+0.00300tr_m_mo+0.00375tr_m_sa+0.00825tr_b_te+0.00300tr_b_mo+0.00375tr_b_sa+0.00440tr_p_te+0.00160tr_p_mo+0.00200tr_p_sa+td_g_g_te+td_m_g_te+td_b_g_te+td_p_g_te+ed_g_te = nd_g_wd ;
+0.03300tr_g_wd+0.01200tr_g_te+0.01500tr_g_mo+0.00825tr_m_wd+0.00300tr_m_te+0.00375tr_m_mo+0.00825tr_b_wd+0.00300tr_b_te+0.00375tr_b_mo+0.00440tr_p_wd+0.00160tr_p_te+0.00200tr_p_mo+td_g_g_wd+td_m_g_wd+td_b_g_wd+td_p_g_wd+ed_g_wd = nd_g_tu ;
+0.03300tr_g_tu+0.01200tr_g_wd+0.01500tr_g_te+0.00825tr_m_tu+0.00300tr_m_wd+0.00375tr_m_te+0.00825tr_b_tu+0.00300tr_b_wd+0.00375tr_b_te+0.00440tr_p_tu+0.00160tr_p_wd+0.00200tr_p_te+td_g_g_tu+td_m_g_tu+td_b_g_tu+td_p_g_tu+ed_g_tu = nd_g_fr ;
+0.03300tr_g_fr+0.01200tr_g_tu+0.01500tr_g_wd+0.00825tr_m_fr+0.00300tr_m_tu+0.00375tr_m_wd+0.00825tr_b_fr+0.00300tr_b_tu+0.00375tr_b_wd+0.00440tr_p_fr+0.00160tr_p_tu+0.00200tr_p_wd+td_g_g_fr+td_m_g_fr+td_b_g_fr+td_p_g_fr+ed_g_fr = nd_g_sa ;
+0.01100tr_g_sa+0.00400tr_g_fr+0.00500tr_g_tu+0.03025tr_m_sa+0.01100tr_m_fr+0.01375tr_m_tu+0.01100tr_b_sa+0.00400tr_b_fr+0.00500tr_b_tu+0.00660tr_p_sa+0.00240tr_p_fr+0.00300tr_p_tu+td_g_m_sa+td_m_m_sa+td_b_m_sa+td_p_m_sa+ed_m_sa = nd_m_mo ;
+0.01100tr_g_mo+0.00400tr_g_sa+0.00500tr_g_fr+0.03025tr_m_mo+0.01100tr_m_sa+0.01375tr_m_fr+0.01100tr_b_mo+0.00400tr_b_sa+0.00500tr_b_fr+0.00660tr_p_mo+0.00240tr_p_sa+0.00300tr_p_fr+td_g_m_mo+td_m_m_mo+td_b_m_mo+td_p_m_mo+ed_m_mo = nd_m_te ;
+0.01100tr_g_te+0.00400tr_g_mo+0.00500tr_g_sa+0.03025tr_m_te+0.01100tr_m_mo+0.01375tr_m_sa+0.01100tr_b_te+0.00400tr_b_mo+0.00500tr_b_sa+0.00660tr_p_te+0.00240tr_p_mo+0.00300tr_p_sa+td_g_m_te+td_m_m_te+td_b_m_te+td_p_m_te+ed_m_te = nd_m_wd ;
+0.01100tr_g_wd+0.00400tr_g_te+0.00500tr_g_mo+0.03025tr_m_wd+0.01100tr_m_te+0.01375tr_m_mo+0.01100tr_b_wd+0.00400tr_b_te+0.00500tr_b_mo+0.00660tr_p_wd+0.00240tr_p_te+0.00300tr_p_mo+td_g_m_wd+td_m_m_wd+td_b_m_wd+td_p_m_wd+ed_m_wd = nd_m_tu ;
+0.01100tr_g_tu+0.00400tr_g_wd+0.00500tr_g_te+0.03025tr_m_tu+0.01100tr_m_wd+0.01375tr_m_te+0.01100tr_b_tu+0.00400tr_b_wd+0.00500tr_b_te+0.00660tr_p_tu+0.00240tr_p_wd+0.00300tr_p_te+td_g_m_tu+td_m_m_tu+td_b_m_tu+td_p_m_tu+ed_m_tu = nd_m_fr ;
+0.01100tr_g_fr+0.00400tr_g_tu+0.00500tr_g_wd+0.03025tr_m_fr+0.01100tr_m_tu+0.01375tr_m_wd+0.01100tr_b_fr+0.00400tr_b_tu+0.00500tr_b_wd+0.00660tr_p_fr+0.00240tr_p_tu+0.00300tr_p_wd+td_g_m_fr+td_m_m_fr+td_b_m_fr+td_p_m_fr+ed_m_fr = nd_m_sa ;
+0.00550tr_g_sa+0.00200tr_g_fr+0.00250tr_g_tu+0.01375tr_m_sa+0.00500tr_m_fr+0.00625tr_m_tu+0.02970tr_b_sa+0.01080tr_b_fr+0.01350tr_b_tu+0.01485tr_p_sa+0.00540tr_p_fr+0.00675tr_p_tu+td_g_b_sa+td_m_b_sa+td_b_b_sa+td_p_b_sa+ed_b_sa = nd_b_mo ;
+0.00550tr_g_mo+0.00200tr_g_sa+0.00250tr_g_fr+0.01375tr_m_mo+0.00500tr_m_sa+0.00625tr_m_fr+0.02970tr_b_mo+0.01080tr_b_sa+0.01350tr_b_fr+0.01485tr_p_mo+0.00540tr_p_sa+0.00675tr_p_fr+td_g_b_mo+td_m_b_mo+td_b_b_mo+td_p_b_mo+ed_b_mo = nd_b_te ;
+0.00550tr_g_te+0.00200tr_g_mo+0.00250tr_g_sa+0.01375tr_m_te+0.00500tr_m_mo+0.00625tr_m_sa+0.02970tr_b_te+0.01080tr_b_mo+0.01350tr_b_sa+0.01485tr_p_te+0.00540tr_p_mo+0.00675tr_p_sa+td_g_b_te+td_m_b_te+td_b_b_te+td_p_b_te+ed_b_te = nd_b_wd ;
+0.00550tr_g_wd+0.00200tr_g_te+0.00250tr_g_mo+0.01375tr_m_wd+0.00500tr_m_te+0.00625tr_m_mo+0.02970tr_b_wd+0.01080tr_b_te+0.01350tr_b_mo+0.01485tr_p_wd+0.00540tr_p_te+0.00675tr_p_mo+td_g_b_wd+td_m_b_wd+td_b_b_wd+td_p_b_wd+ed_b_wd = nd_b_tu ;
+0.00550tr_g_tu+0.00200tr_g_wd+0.00250tr_g_te+0.01375tr_m_tu+0.00500tr_m_wd+0.00625tr_m_te+0.02970tr_b_tu+0.01080tr_b_wd+0.01350tr_b_te+0.01485tr_p_tu+0.00540tr_p_wd+0.00675tr_p_te+td_g_b_tu+td_m_b_tu+td_b_b_tu+td_p_b_tu+ed_b_tu = nd_b_fr ;
+0.00550tr_g_fr+0.00200tr_g_tu+0.00250tr_g_wd+0.01375tr_m_fr+0.00500tr_m_tu+0.00625tr_m_wd+0.02970tr_b_fr+0.01080tr_b_tu+0.01350tr_b_wd+0.01485tr_p_fr+0.00540tr_p_tu+0.00675tr_p_wd+td_g_b_fr+td_m_b_fr+td_b_b_fr+td_p_b_fr+ed_b_fr = nd_b_sa ;
+0.00550tr_g_sa+0.00200tr_g_fr+0.00250tr_g_tu+0.00275tr_m_sa+0.00100tr_m_fr+0.00125tr_m_tu+0.00605tr_b_sa+0.00220tr_b_fr+0.00275tr_b_tu+0.02915tr_p_sa+0.01060tr_p_fr+0.01325tr_p_tu+td_g_p_sa+td_m_p_sa+td_b_p_sa+td_p_p_sa+ed_p_sa = nd_p_mo ;
+0.00550tr_g_mo+0.00200tr_g_sa+0.00250tr_g_fr+0.00275tr_m_mo+0.00100tr_m_sa+0.00125tr_m_fr+0.00605tr_b_mo+0.00220tr_b_sa+0.00275tr_b_fr+0.02915tr_p_mo+0.01060tr_p_sa+0.01325tr_p_fr+td_g_p_mo+td_m_p_mo+td_b_p_mo+td_p_p_mo+ed_p_mo = nd_p_te ;
+0.00550tr_g_te+0.00200tr_g_mo+0.00250tr_g_sa+0.00275tr_m_te+0.00100tr_m_mo+0.00125tr_m_sa+0.00605tr_b_te+0.00220tr_b_mo+0.00275tr_b_sa+0.02915tr_p_te+0.01060tr_p_mo+0.01325tr_p_sa+td_g_p_te+td_m_p_te+td_b_p_te+td_p_p_te+ed_p_te = nd_p_wd ;
+0.00550tr_g_wd+0.00200tr_g_te+0.00250tr_g_mo+0.00275tr_m_wd+0.00100tr_m_te+0.00125tr_m_mo+0.00605tr_b_wd+0.00220tr_b_te+0.00275tr_b_mo+0.02915tr_p_wd+0.01060tr_p_te+0.01325tr_p_mo+td_g_p_wd+td_m_p_wd+td_b_p_wd+td_p_p_wd+ed_p_wd = nd_p_tu ;
+0.00550tr_g_tu+0.00200tr_g_wd+0.00250tr_g_te+0.00275tr_m_tu+0.00100tr_m_wd+0.00125tr_m_te+0.00605tr_b_tu+0.00220tr_b_wd+0.00275tr_b_te+0.02915tr_p_tu+0.01060tr_p_wd+0.01325tr_p_te+td_g_p_tu+td_m_p_tu+td_b_p_tu+td_p_p_tu+ed_p_tu = nd_p_fr ;
+0.00550tr_g_fr+0.00200tr_g_tu+0.00250tr_g_wd+0.00275tr_m_fr+0.00100tr_m_tu+0.00125tr_m_wd+0.00605tr_b_fr+0.00220tr_b_tu+0.00275tr_b_wd+0.02915tr_p_fr+0.01060tr_p_tu+0.01325tr_p_wd+td_g_p_fr+td_m_p_fr+td_b_p_fr+td_p_p_fr+ed_p_fr = nd_p_sa ;
+
+// Constraint 3
+// Total number of undamaged cars out of depot i on day t
+tr_g_mo+tu_g_g_mo+tu_g_m_mo+tu_g_b_mo+tu_g_p_mo+eu_g_mo = nu_g_mo ;
+tr_g_te+tu_g_g_te+tu_g_m_te+tu_g_b_te+tu_g_p_te+eu_g_te = nu_g_te ;
+tr_g_wd+tu_g_g_wd+tu_g_m_wd+tu_g_b_wd+tu_g_p_wd+eu_g_wd = nu_g_wd ;
+tr_g_tu+tu_g_g_tu+tu_g_m_tu+tu_g_b_tu+tu_g_p_tu+eu_g_tu = nu_g_tu ;
+tr_g_fr+tu_g_g_fr+tu_g_m_fr+tu_g_b_fr+tu_g_p_fr+eu_g_fr = nu_g_fr ;
+tr_g_sa+tu_g_g_sa+tu_g_m_sa+tu_g_b_sa+tu_g_p_sa+eu_g_sa = nu_g_sa ;
+tr_m_mo+tu_m_g_mo+tu_m_m_mo+tu_m_b_mo+tu_m_p_mo+eu_m_mo = nu_m_mo ;
+tr_m_te+tu_m_g_te+tu_m_m_te+tu_m_b_te+tu_m_p_te+eu_m_te = nu_m_te ;
+tr_m_wd+tu_m_g_wd+tu_m_m_wd+tu_m_b_wd+tu_m_p_wd+eu_m_wd = nu_m_wd ;
+tr_m_tu+tu_m_g_tu+tu_m_m_tu+tu_m_b_tu+tu_m_p_tu+eu_m_tu = nu_m_tu ;
+tr_m_fr+tu_m_g_fr+tu_m_m_fr+tu_m_b_fr+tu_m_p_fr+eu_m_fr = nu_m_fr ;
+tr_m_sa+tu_m_g_sa+tu_m_m_sa+tu_m_b_sa+tu_m_p_sa+eu_m_sa = nu_m_sa ;
+tr_b_mo+tu_b_g_mo+tu_b_m_mo+tu_b_b_mo+tu_b_p_mo+eu_b_mo = nu_b_mo ;
+tr_b_te+tu_b_g_te+tu_b_m_te+tu_b_b_te+tu_b_p_te+eu_b_te = nu_b_te ;
+tr_b_wd+tu_b_g_wd+tu_b_m_wd+tu_b_b_wd+tu_b_p_wd+eu_b_wd = nu_b_wd ;
+tr_b_tu+tu_b_g_tu+tu_b_m_tu+tu_b_b_tu+tu_b_p_tu+eu_b_tu = nu_b_tu ;
+tr_b_fr+tu_b_g_fr+tu_b_m_fr+tu_b_b_fr+tu_b_p_fr+eu_b_fr = nu_b_fr ;
+tr_b_sa+tu_b_g_sa+tu_b_m_sa+tu_b_b_sa+tu_b_p_sa+eu_b_sa = nu_b_sa ;
+tr_p_mo+tu_p_g_mo+tu_p_m_mo+tu_p_b_mo+tu_p_p_mo+eu_p_mo = nu_p_mo ;
+tr_p_te+tu_p_g_te+tu_p_m_te+tu_p_b_te+tu_p_p_te+eu_p_te = nu_p_te ;
+tr_p_wd+tu_p_g_wd+tu_p_m_wd+tu_p_b_wd+tu_p_p_wd+eu_p_wd = nu_p_wd ;
+tr_p_tu+tu_p_g_tu+tu_p_m_tu+tu_p_b_tu+tu_p_p_tu+eu_p_tu = nu_p_tu ;
+tr_p_fr+tu_p_g_fr+tu_p_m_fr+tu_p_b_fr+tu_p_p_fr+eu_p_fr = nu_p_fr ;
+tr_p_sa+tu_p_g_sa+tu_p_m_sa+tu_p_b_sa+tu_p_p_sa+eu_p_sa = nu_p_sa ;
+
+
+// Constraint 4
+// Total number of damaged cars out of depot i on day t
+rp_g_mo+td_g_g_mo+td_g_m_mo+td_g_b_mo+td_g_p_mo+ed_g_mo = nd_g_mo ;
+rp_g_te+td_g_g_te+td_g_m_te+td_g_b_te+td_g_p_te+ed_g_te = nd_g_te ;
+rp_g_wd+td_g_g_wd+td_g_m_wd+td_g_b_wd+td_g_p_wd+ed_g_wd = nd_g_wd ;
+rp_g_tu+td_g_g_tu+td_g_m_tu+td_g_b_tu+td_g_p_tu+ed_g_tu = nd_g_tu ;
+rp_g_fr+td_g_g_fr+td_g_m_fr+td_g_b_fr+td_g_p_fr+ed_g_fr = nd_g_fr ;
+rp_g_sa+td_g_g_sa+td_g_m_sa+td_g_b_sa+td_g_p_sa+ed_g_sa = nd_g_sa ;
+rp_m_mo+td_m_g_mo+td_m_m_mo+td_m_b_mo+td_m_p_mo+ed_m_mo = nd_m_mo ;
+rp_m_te+td_m_g_te+td_m_m_te+td_m_b_te+td_m_p_te+ed_m_te = nd_m_te ;
+rp_m_wd+td_m_g_wd+td_m_m_wd+td_m_b_wd+td_m_p_wd+ed_m_wd = nd_m_wd ;
+rp_m_tu+td_m_g_tu+td_m_m_tu+td_m_b_tu+td_m_p_tu+ed_m_tu = nd_m_tu ;
+rp_m_fr+td_m_g_fr+td_m_m_fr+td_m_b_fr+td_m_p_fr+ed_m_fr = nd_m_fr ;
+rp_m_sa+td_m_g_sa+td_m_m_sa+td_m_b_sa+td_m_p_sa+ed_m_sa = nd_m_sa ;
+rp_b_mo+td_b_g_mo+td_b_m_mo+td_b_b_mo+td_b_p_mo+ed_b_mo = nd_b_mo ;
+rp_b_te+td_b_g_te+td_b_m_te+td_b_b_te+td_b_p_te+ed_b_te = nd_b_te ;
+rp_b_wd+td_b_g_wd+td_b_m_wd+td_b_b_wd+td_b_p_wd+ed_b_wd = nd_b_wd ;
+rp_b_tu+td_b_g_tu+td_b_m_tu+td_b_b_tu+td_b_p_tu+ed_b_tu = nd_b_tu ;
+rp_b_fr+td_b_g_fr+td_b_m_fr+td_b_b_fr+td_b_p_fr+ed_b_fr = nd_b_fr ;
+rp_b_sa+td_b_g_sa+td_b_m_sa+td_b_b_sa+td_b_p_sa+ed_b_sa = nd_b_sa ;
+rp_p_mo+td_p_g_mo+td_p_m_mo+td_p_b_mo+td_p_p_mo+ed_p_mo = nd_p_mo ;
+rp_p_te+td_p_g_te+td_p_m_te+td_p_b_te+td_p_p_te+ed_p_te = nd_p_te ;
+rp_p_wd+td_p_g_wd+td_p_m_wd+td_p_b_wd+td_p_p_wd+ed_p_wd = nd_p_wd ;
+rp_p_tu+td_p_g_tu+td_p_m_tu+td_p_b_tu+td_p_p_tu+ed_p_tu = nd_p_tu ;
+rp_p_fr+td_p_g_fr+td_p_m_fr+td_p_b_fr+td_p_p_fr+ed_p_fr = nd_p_fr ;
+rp_p_sa+td_p_g_sa+td_p_m_sa+td_p_b_sa+td_p_p_sa+ed_p_sa = nd_p_sa ;
+
+// Constraint 5
+// Repair capacity of depot i on all days
+rp_g_mo <= 0 ;
+rp_g_te <= 0 ;
+rp_g_wd <= 0 ;
+rp_g_tu <= 0 ;
+rp_g_fr <= 0 ;
+rp_g_sa <= 0 ;
+rp_m_mo-5a_3-5a_4 <= 12 ;
+rp_m_te-5a_3-5a_4 <= 12 ;
+rp_m_wd-5a_3-5a_4 <= 12 ;
+rp_m_tu-5a_3-5a_4 <= 12 ;
+rp_m_fr-5a_3-5a_4 <= 12 ;
+rp_m_sa-5a_3-5a_4 <= 12 ;
+rp_b_mo-5a_1-5a_2 <= 20 ;
+rp_b_te-5a_1-5a_2 <= 20 ;
+rp_b_wd-5a_1-5a_2 <= 20 ;
+rp_b_tu-5a_1-5a_2 <= 20 ;
+rp_b_fr-5a_1-5a_2 <= 20 ;
+rp_b_sa-5a_1-5a_2 <= 20 ;
+rp_p_mo-5a_5 <= 0 ;
+rp_p_te-5a_5 <= 0 ;
+rp_p_wd-5a_5 <= 0 ;
+rp_p_tu-5a_5 <= 0 ;
+rp_p_fr-5a_5 <= 0 ;
+rp_p_sa-5a_5 <= 0 ;
+
+// Constraint 6
+// Demand at depot i on day t
+tr_g_mo <= 100 ;
+tr_g_te <= 150 ;
+tr_g_wd <= 135 ;
+tr_g_tu <= 83 ;
+tr_g_fr <= 120 ;
+tr_g_sa <= 230 ;
+tr_m_mo <= 250 ;
+tr_m_te <= 143 ;
+tr_m_wd <= 80 ;
+tr_m_tu <= 225 ;
+tr_m_fr <= 210 ;
+tr_m_sa <= 98 ;
+tr_b_mo <= 95 ;
+tr_b_te <= 195 ;
+tr_b_wd <= 242 ;
+tr_b_tu <= 111 ;
+tr_b_fr <= 70 ;
+tr_b_sa <= 124 ;
+tr_p_mo <= 160 ;
+tr_p_te <= 99 ;
+tr_p_wd <= 55 ;
+tr_p_tu <= 96 ;
+tr_p_fr <= 115 ;
+tr_p_sa <= 80 ;
+
+// Constraint 7
+// Total number of cars hired should be equal to cars hired on Monday for 3 days
+// plus cars hired on Tuesday for 2 or 3 days and finally adding damaged and
+// undamaged cars in depot on Wednesday
+0.25tr_g_mo + 0.45tr_g_te + nu_g_wd + nd_g_wd +0.25tr_m_mo + 0.45tr_m_te + nu_m_wd + nd_m_wd +0.25tr_b_mo + 0.45tr_b_te + nu_b_wd + nd_b_wd +0.25tr_p_mo + 0.45tr_p_te + nu_p_wd + nd_p_wd = n ;
+
+// Constraints specific to rental problem 2
+a_2 <= a_1 ;
+a_4 <= a_3 ;
+a_1+a_2+a_3+a_4+a_5 <= 3 ;
+
+// Binary constraint
+bin  a_1, a_2, a_3, a_4, a_5 ;
